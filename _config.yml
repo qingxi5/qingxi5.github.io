@@ -107,7 +107,7 @@ theme: matery
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
-  repo: git@github.com:qingxi5/qingxi5.github.io.git # git@github.com:LuckyZmj/LuckyZmj.github.io.git 
+  repo:  # git@github.com:LuckyZmj/LuckyZmj.github.io.git 
   branch: main
 
 # 搜索
